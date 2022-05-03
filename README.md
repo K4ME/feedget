@@ -1,14 +1,14 @@
-Criar o projeto
+<strong>Criar o projeto:</strong>
 npm create vite@latest
 
-Instalar dependências
+<strong>Instalar dependências:</strong>
 npm install
 
-instalar tailwindcss no projeto
+<strong>Instalar tailwindcss no projeto:</strong>
 https://tailwindcss.com/docs/installation/using-postcss
 
-instalar icones
+<strong>Instalar icones:</strong>
 npm install phosphor-react
 
-instalar compoenents headlessui
+<strong>Instalar compoenents headlessui:</strong>
 npm install @headlessui/react

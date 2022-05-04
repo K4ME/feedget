@@ -12,3 +12,12 @@ npm install phosphor-react
 
 <strong>Instalar compoenents headlessui:</strong>
 npm install @headlessui/react
+
+<strong>Instalar tailwindcss/forms:</strong>
+npm install -D @tailwindcss/forms
+
+<strong>Instalar tailwindcss scrollbar</strong>
+npm install --save-dev tailwind-scrollbar
+
+<strong>Instalar biblioteca para screenshot:</strong>
+npm install html2canvas

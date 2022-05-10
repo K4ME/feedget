@@ -2,21 +2,18 @@
   <img alt="Logo feedget" src="./prints/feedget-logo.png">
 </p>
 <p align="center">
-Projeto desenvolvido no NLW Return.
+Project developed at NLW Return 🚀
 </p>
-
-## 🚀 Aplication working
-
 <p align="center">
-  <a href="https://feedget-4cttv6k9w-k4me.vercel.app/"> Feedget </a>
+go to: <a href="https://feedget-4cttv6k9w-k4me.vercel.app/"> Feedget </a>
 </p>
 
 ## 👀 Images
 
 <p align="center">
-  <img alt="Tipos de feedback" src="./prints/tipos-feeback.png">
-  <img alt="Reportando erro" src="./prints/Reportando-erro.png">
-  <img alt="Agradecemos o feedback" src="./prints/agradecemos-o-feedback.png">
+  <img alt="feedback tips" src="./prints/tipos-feeback.png" />
+  <img alt="getting error" src="./prints/Reportando-erro.png" />
+  <img alt="Appreciate the feedback" src="./prints/agradecemos-o-feedback.png" />
 </p>
 
 ## 🔖 Layout
@@ -38,6 +35,21 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 - [Express](https://expressjs.com/)
 - [Prisma](https://www.prisma.io/)
 
+## 💻 Getting started
+
+First, clone de project:
+
+    git clone git@github.com:K4ME/feedget-web.git
+
+Install the dependencies
+
+    npm install
+
+Run the code
+
+    npm run dev
+
+<!--
 <strong>Criar o projeto:</strong>
 npm create vite@latest
 
@@ -60,7 +72,7 @@ npm install -D @tailwindcss/forms
 npm install --save-dev tailwind-scrollbar
 
 <strong>Instalar biblioteca para screenshot:</strong>
-npm install html2canvas
+npm install html2canvas -->
 
 ---
 

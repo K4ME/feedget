@@ -11,9 +11,9 @@ go to: <a href="https://feedget-4cttv6k9w-k4me.vercel.app/"> Feedget </a>
 ## 👀 Images
 
 <p align="center">
-  <img alt="feedback tips" src="./prints/tipos-feeback.png" />
-  <img alt="getting error" src="./prints/Reportando-erro.png" />
-  <img alt="Appreciate the feedback" src="./prints/agradecemos-o-feedback.png" />
+  <img alt="feedback tips" src="./prints/tipos-feeback.png" width="240"/>
+  <img alt="getting error" src="./prints/Reportando-erro.png" width="240"/>
+  <img alt="Appreciate the feedback" src="./prints/agradecemos-o-feedback.png" width="240"/>
 </p>
 
 ## 🔖 Layout

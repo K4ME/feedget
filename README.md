@@ -5,7 +5,7 @@
 Project developed at NLW Return 🚀
 </p>
 <p align="center">
-go to: <a href="https://feedget-4cttv6k9w-k4me.vercel.app/"> Feedget </a>
+Go check it out: <a href="https://feedget-4cttv6k9w-k4me.vercel.app/"> Feedget </a>
 </p>
 
 ## 👀 Images
